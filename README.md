@@ -3,8 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Installed dependencies:
-React bootstrap
-react form hook ( for validation)
+React bootstrap,
+react form hook ( for validation ),
 react axios
 
 1. Created a responsive and interactive UI using React Js and React Bootstrap.
